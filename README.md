@@ -7,10 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-#use o comando php artisan serve
+# use o comando 
+## php artisan serve
 e depois faça a migration para seu banco local usando
 o comando
-php artisan migrate
+## php artisan migrate
 deve ter o xampp com phpmyadmin funcionando
 e o php instalado na máquina
 
